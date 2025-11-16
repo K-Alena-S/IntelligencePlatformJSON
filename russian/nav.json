@@ -1,5 +1,4 @@
-{
-  "topics": [
+[
     {
       "title": "Определение частей речи",
       "questions_url": "questions/parts-of-speech.json"
@@ -40,5 +39,5 @@
       "title": "Орфоэпические нормы",
       "questions_url": "questions/orthoepic-norms.json"
     }
-  ]
-}
+]
+
