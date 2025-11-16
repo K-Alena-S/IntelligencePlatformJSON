@@ -1,0 +1,44 @@
+{
+  "topics": [
+    {
+      "title": "Определение частей речи",
+      "questions_url": "questions/parts-of-speech.json"
+    },
+    {
+      "title": "Правописание Н и НН",
+      "questions_url": "questions/n-vs-nn.json"
+    },
+    {
+      "title": "Правописание приставок ПРЕ- и ПРИ-",
+      "questions_url": "questions/pre-vs-pri.json"
+    },
+    {
+      "title": "Правописание НЕ с разными частями речи",
+      "questions_url": "questions/ne-spelling.json"
+    },
+    {
+      "title": "Пунктуация в сложносочинённом предложении",
+      "questions_url": "questions/ssp-punctuation.json"
+    },
+    {
+      "title": "Пунктуация в сложноподчинённом предложении",
+      "questions_url": "questions/spp-punctuation.json"
+    },
+    {
+      "title": "Знаки препинания при прямой речи",
+      "questions_url": "questions/direct-speech.json"
+    },
+    {
+      "title": "Морфемный разбор слова",
+      "questions_url": "questions/morphemic-analysis.json"
+    },
+    {
+      "title": "Синтаксический разбор предложения",
+      "questions_url": "questions/syntactic-analysis.json"
+    },
+    {
+      "title": "Орфоэпические нормы",
+      "questions_url": "questions/orthoepic-norms.json"
+    }
+  ]
+}
